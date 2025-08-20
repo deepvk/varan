@@ -1,0 +1,16 @@
+torch
+torchaudio
+tqdm~=4.66.1
+wandb~=0.16.2
+jiwer~=3.0.4
+soundfile==0.12.1
+evaluate~=0.4.3
+librosa
+flashlight-text
+editdistance
+torchtune
+accelerate
+transformers~=4.48.0
+datasets==3.3.0
+peft
+numpy<2
